@@ -1,3 +1,7 @@
+Version 1.59 with kernel 3.14 patch 2014-04-11
+==============================================
+* Integrated kernel 3.14 patch from https://launchpad.net/ubuntu/+source/ndiswrapper/1.59-2 and http://launchpadlibrarian.net/170100367/ndiswrapper_1.59-1_1.59-2.diff.gz
+
 Version 1.59 2013-11-28
 =======================
 * Support for Linux kernels from 2.6.13 to 3.12
